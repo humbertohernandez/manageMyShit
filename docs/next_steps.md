@@ -1,5 +1,5 @@
 ## SESSION RECALL: 2026-05-18
-### Project: manageMyShit
+### Project: Wingman (formerly manageMyShit)
 ### Key Insights:
 - **Biological Truth:** Exhaustion = brain fog/physical pain. 
 - **Work Truth:** 4-hour minimum blocks for architectural mental loading; must end on a 'win'.
@@ -49,25 +49,24 @@
 - **Adaptive Day Theming:** If small tasks accumulate beyond a threshold, the assistant suggests converting the next day into a 'Small Tasks' Theme Day to clear the backlog.
 - **Flight Data Backup:** The 'Landing Sequence' explicitly includes a 'REMAINDER' capture and a 'GitHub Push' check to ensure no work-in-progress is lost.
 
-### ADDENDUM: 2026-05-20 (The Party Session)
-- **Assistant Persona/Tone:**
-    - **Human-Like Interfacing:** The assistant uses a warm, human-like tone for all interactions (external and internal). It only identifies as an AI if explicitly asked.
-    - **Persistent Respect:** Auto-replies remain active even during "Health" boxes to respect the time/energy of external contacts.
-    - **The "Double-Tap" ETA:** High-priority messages (determined by the Invoked Prioritizer) receive a second, proactive message: *"Humberto will likely contact you in XX minutes"* (where XX = Remaining Box Time + 30 mins). This fires only when <45 mins remain in the box.
-    - **Selective Silence:** Lower-priority messages stay at the "Receipt Confirmation" stage with no further follow-up until the Attention Window.
+### ADDENDUM: 2026-05-20 (The Wingman Session)
+- **Product Name:** **Wingman** (The system has evolved from "managing shit" to "Watching your six").
+- **Core Philosophy: The Stealth Wingman**
+    - **Peer Relationship:** The assistant is not a "First Mate" (subordinate) or a "Boss" (enforcer). It is a **Wingman**—an equal who anticipates needs, coordinates tactically, and signals instead of reporting.
+    - **Nothing Always Visible:** To combat digital tool fatigue and respect the Sacred Space, the UI is ephemeral. No indicators, rings, or lights are visible unless explicitly requested (hover/tap) or an Active Overwatch signal is triggered.
+    - **The "Friend" Protocol:** In "Proactive Pivot" moments, the tone is empathetic and partnership-oriented. It presents findings as a shared reality check, not a command.
+
+- **Dictator & Consuls Architecture:**
+    - **The Dictator (Phone):** Central hub running Flutter/Dart and **Hive** for ultra-fast, local-first, privacy-focused storage.
+    - **The Consuls (PC & Watch):** Decentralized sensors. The PC Consul (Native Dart/Compiled .exe) and Watch Consul (Zepp OS) must be able to communicate with the Phone independently (Direct Bluetooth/Wi-Fi). The PC is *not* a mandatory bridge for the watch.
+    - **Haptic Signals:** "Gentle Knock" vibrations on the watch are subtle and fully user-configurable.
 
 - **Biological Tactical Bridge (Wearable Integration):**
-    - **Hard Indicators:** Transition from heuristics to objective truth using consumer smartwatches (Apple, Garmin, Fitbit).
-    - **Primary Metrics:** Heart Rate Variability (HRV) for stress/adaptability, Sleep Debt/Time Awake for cognitive decline, and movement patterns for restlessness.
-    - **Passive Digital Biomarkers:** Monitor typing dynamics (Interkey Interval, speed deceleration, backspace frequency) and "App/Tab Toggling" (Digital Tool Fatigue) as indicators of fragmented attention.
-    - **The "Willpower Gauge":** Dashboard features a modular, togglable "Biological Battery." When it hits the red, the system enforces a "Health Lock" on work modules—no arguments.
-
-- **Architectural & Security Mandates:**
-    - **Local-First Biometrics:** Wearable and typing data must be processed locally on the device to uphold the "Privacy-First" core vision.
-    - **Invoked State Evaluator:** The Prioritizer evolves into a "State Evaluator" that cross-references workload with biometric readiness.
+    - **Hard Indicators:** Transition from heuristics to objective truth using consumer smartwatches (Alpha: Amazfit/Zepp OS for Raw R-R Interval/HRV support).
+    - **Passive Digital Biomarkers:** PC monitor tracks Typing Dynamics (IKI/Backspace freq) and Context Switching (App toggling) as objective proof of cognitive ceiling.
+    - **Break-Glass Reality Check:** If the Wingman signals a pivot and the user disagrees, a 4-minute CCT/Reaction test serves as a shared "fit-for-duty" validation.
 
 - **Personal Integrity:**
     - **Name Preference:** Use 'Humberto' or 'B+0'. Avoid 'Humbe'.
     - **System Integrity:** The user accepts strict enforcement of agreed-upon rules; flexibility is built-in, but the 'Hard Walls' are respected.
     - **Holistic Synergy:** The game-changer is the concurrent operation of all modules (Gatekeeper, Flow Protection, Biological Reset); removing one breaks the systemic value.
-    - **Backlog Management:** Small tasks are handled via 'Attention Windows' or 'Small Time Boxes' unless they accumulate into a 'Small Task Theme Day.'
