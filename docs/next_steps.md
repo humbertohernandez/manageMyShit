@@ -77,3 +77,19 @@
     - **Name Preference:** Use 'Humberto' or 'B+0'. Avoid 'Humbe'.
     - **System Integrity:** The user accepts strict enforcement of agreed-upon rules; flexibility is built-in, but the 'Hard Walls' are respected.
     - **Holistic Synergy:** The game-changer is the concurrent operation of all modules (Gatekeeper, Flow Protection, Biological Reset); removing one breaks the systemic value.
+
+### ADDENDUM: 2026-05-21 (The Guardian Sentinel)
+- **Primary Mission Goal: Total Certainty.** The user must have the absolute peace of mind that the Wingman is "Holding the Line" on all fronts. Silence is the vacuum for genius; alarms are the shield for family and health.
+- **The Autonomous Consul Pattern:** 
+    - **Watch & PC independence:** Consuls are not "dumb pipes"; they are localized sentinels.
+    - **Silent Sentinel Mode:** Consuls remain invisible while metrics (HRV, IKI) are within constraints. They only escalate communication frequency and alert the Dictator upon detecting an anomaly (fatigue, throughput crash) or a Gatekeeper override.
+    - **Efficiency:** Watch code is 100% QuickJS Bytecode (.bin), optimized for a 4MB heap.
+- **The Tactical Landing (Soft Stop):** 
+    - **Sequence:** "Gentle Knock" (Firm) -> Voice: "B+0, 15 mins to land this plane. Shall I land it for you?"
+    - **Automation:** Configurable "Soft Landing" routine captures final voice context, saves architectural state, and transitions to the Biological Reset.
+- **Bio-Adaptive Mission Balancing:**
+    - **Short Box Blocks (2-hour):** Dynamically scheduled when "Remains of the Day" hits a 1.5-hour threshold.
+    - **Gating Logic:** Suggestion is gated by real-time biometrics. If markers are "flipping," Wingman prioritizes an immediate exit to rest; if stable, it offers the option to clear the short task backlog.
+- **The Emergency Education Loop:** Wingman acts as a buffer. It verifies non-whitelisted "Emergencies" and subsequently educates the contact on Sacred Space boundaries to prevent future leaks.
+- **Modular Prioritization:** Pluggable engine starting with the **Eisenhower Matrix**. Tasks are modeled with rich metadata for cross-module compatibility.
+- **Technical Non-Negotiables:** 18-hour watch battery life in high-performance mode; 0ms UI jank during sensor ingestion (via Dart Isolates).
