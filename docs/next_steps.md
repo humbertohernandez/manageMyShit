@@ -66,6 +66,13 @@
     - **Passive Digital Biomarkers:** PC monitor tracks Typing Dynamics (IKI/Backspace freq) and Context Switching (App toggling) as objective proof of cognitive ceiling.
     - **Break-Glass Reality Check:** If the Wingman signals a pivot and the user disagrees, a 4-minute CCT/Reaction test serves as a shared "fit-for-duty" validation.
 
+- **The Briefing Room (Ground Control):**
+    - **Architecture:** A local web interface served directly from the Phone (The Dictator) using Flutter-Web. The server is transient—started and shut down only when requested—and is accessible only during its active uptime. Authentication is optional (non-mandatory) given the limited exposure window. No cloud relay; absolute privacy.
+    - **Communication:** The Phone's background service listens to the Watch and the PC (for IKI/Fatigue indicators) specifically via Bluetooth Low Energy (BLE).
+    - **Purpose:** Handles the "heavy" configuration, task triaging, and forensics/debriefing (analyzing where throughput crashed). Adheres to "Zero Management Overhead" by pushing admin tasks to pre/post-flight hours.
+    - **UI Aesthetics:** Dual-theme support allowing the user to choose between 'Classic Vintage Aviator' (analog dials, deep charcoals, phosphor greens) and 'Modern Glass Cockpit' (digital HUD).
+    - **Remote Overwatch:** Strictly prohibited. No external access to "In-Flight" status.
+
 - **Personal Integrity:**
     - **Name Preference:** Use 'Humberto' or 'B+0'. Avoid 'Humbe'.
     - **System Integrity:** The user accepts strict enforcement of agreed-upon rules; flexibility is built-in, but the 'Hard Walls' are respected.
