@@ -93,3 +93,15 @@
 - **The Emergency Education Loop:** Wingman acts as a buffer. It verifies non-whitelisted "Emergencies" and subsequently educates the contact on Sacred Space boundaries to prevent future leaks.
 - **Modular Prioritization:** Pluggable engine starting with the **Eisenhower Matrix**. Tasks are modeled with rich metadata for cross-module compatibility.
 - **Technical Non-Negotiables:** 18-hour watch battery life in high-performance mode; 0ms UI jank during sensor ingestion (via Dart Isolates).
+
+### ADDENDUM: 2026-05-24 (The Re-Identification Session)
+- **Agent Re-Identification:**
+    - **Developer Agent Call-Sign:** Permanently changed from 'Amelia' to **Adriana**. This shift aligns the developer persona with the 'Total Certainty' and 'Silent Sentinel' mission requirements. 
+    - **Identity Purge:** Records updated in `_config/agent-manifest.csv`, `bmm/agents/dev.md`, and `bmm/teams/default-party.csv`.
+- **The "Pre-Heating" Ritual:** 
+    - **Purpose:** Validated the necessity of a "RECALL" at every session start. It is the tactical equivalent of a pre-flight checklist, ensuring all agents have "loaded" the high-fidelity mental model before any work begins.
+    - **Engine Status:** All agents (Mary, Winston, Adriana) must confirm they have digested the latest planning artifacts (`product-brief-manageMyShit-2026-05-21.md`) before claiming readiness.
+- **Flight Data Backup:** 
+    - Verified the "Landing Sequence" requirement: All sessions must end with a REMAINDER update and a GitHub sync to prevent work-in-progress loss.
+    - **Total Certainty Check:** The user (B+0) reinforced that the Wingman's primary value is holding the line on health/family while the user is in the Sacred Space.
+
